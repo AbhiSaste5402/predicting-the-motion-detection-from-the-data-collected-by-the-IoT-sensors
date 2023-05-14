@@ -1,0 +1,1 @@
+# predicting-the-motion-detection-from-the-data-collected-by-the-IoT-sensors
